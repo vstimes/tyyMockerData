@@ -1,0 +1,8 @@
+{
+  "_companyIdComment": "企业Id String 20 Y",
+  "_serialNumComment": "流水号 String 30 Y",
+  "_userIdComment": "企业用户Id String 20 Y",
+  "companyId": "fakeCompany001",
+  "serialNum": "bdde1768376f48008a8b3e8f892bfd29",
+  "userId": "fakeUser001"
+}

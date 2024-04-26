@@ -1,0 +1,17 @@
+{
+  "": "",
+  "_Comment": "",
+  "_downloadFileNameComment": "文件展示名(面客)  String",
+  "_fileNameComment": "文件下载名  String",
+  "_filePathComment": "文件传输平台路径  String",
+  "_retCodeComment": "响应码  String 7  AAAAAAA标识成功",
+  "_retInfoComment": "响应信息  String 254 Y",
+  "_serialNumComment": "流水号  String 30 Y",
+  "downloadFileName": "",
+  "fileName": "",
+  "filePath": "",
+  "orgIdList": {},
+  "retCode": "AAAAAAA",
+  "retInfo": "查询成功",
+  "serialNum": "bdde1768376f48008a8b3e8f892bfd29"
+}

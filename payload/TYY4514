@@ -1,0 +1,25 @@
+输入						
+serialNum	流水号		String	30	Y	
+userId	登陆人用户Id		String		Y	
+companyId	企业id		String		Y	
+importFilePath	文件传输平台路径		String		Y	
+importFileName	导入文件完整名称，需要后缀		String		Y	
+输出						
+totalCount	导入数据总量		String			
+successCount	导入成功数量		String			
+errorCount	导入失败数量		String			
+errorList	导入失败列表		List			
+orgName	组织名称	errorList	String			
+orgTypeName	组织类型	errorList	String			
+pathName	组织全路径	errorList	String			
+managerName	组织负责人	errorList	String			
+note	备注	errorList	String			
+errMsg	失败原因	errorList	String			
+rowNo	行号	errorList	String			
+errFileName	失败数据导出文件下载名		String			
+errExportFileName	失败数据导出文件展示名		String			
+errFilePath	失败数据导出文件文件传输平台路径		String			
+errExcelCount			String			
+retCode	响应码		String	7		AAAAAAA标识成功
+retInfo	响应信息		String	254	Y	
+serialNum	流水号		String	30	Y	

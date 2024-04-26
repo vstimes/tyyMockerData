@@ -1,0 +1,18 @@
+{
+  "_companyIdComment": "企业id  String  Y",
+  "_corpCompanyCodeComment": "编码  String  N",
+  "_corpCompanyNameComment": "法人公司名称  String  N",
+  "_pageNoComment": "    N",
+  "_pageSizeComment": "  String  N",
+  "_serialNumComment": "流水号  String 30 Y",
+  "_stopFlagComment": "启停状态（N-启用，Y-停用）  String  N",
+  "_userIdComment": "需要更新的用户ID  String  Y",
+  "companyId": "fakeCompany001",
+  "corpCompanyCode": "",
+  "corpCompanyName": "",
+  "pageNo": "",
+  "pageSize": "",
+  "serialNum": "bdde1768376f48008a8b3e8f892bfd29",
+  "stopFlag": "",
+  "userId": "fakeUser001"
+}

@@ -1,0 +1,12 @@
+{
+  "_companyIdComment": "企业Id String 20 Y",
+  "_retCodeComment": "响应码 String 7 Y AAAAAAA标识成功",
+  "_retInfoComment": "响应信息 String 254",
+  "_serialNumComment": "流水号 String 30 Y",
+  "_userIdComment": "企业用户Id String 20 Y",
+  "companyId": "fakeCompany001",
+  "retCode": "AAAAAAA",
+  "retInfo": "查询成功",
+  "serialNum": "bdde1768376f48008a8b3e8f892bfd29",
+  "userId": "fakeUser001"
+}

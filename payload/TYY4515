@@ -1,0 +1,14 @@
+输入						
+serialNum	流水号		String	30	Y	
+companyId	企业id		String		Y	
+userId	userId					
+orgIdList	机构id列表（如果传了该参数，按照id导出；如果没传则全量导出）		List		Y	
+orgId		orgIdList	String		Y	
+relativeUrl	传一个url（常量）,天元云用来保存文件操作记录		String		Y	
+输出						
+fileName	文件下载名		String			
+filePath	文件传输平台路径		String			
+downloadFileName	文件展示名(面客)		String			
+retCode	响应码		String	7		AAAAAAA标识成功
+retInfo	响应信息		String	254	Y	
+serialNum	流水号		String	30	Y	

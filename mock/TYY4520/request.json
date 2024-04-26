@@ -1,0 +1,12 @@
+{
+  "_addUserFileComment": "批量添加用户文件  String",
+  "_addUserPathComment": "批量添加用户文件传输平台路径  String",
+  "_companyIdComment": "企业id  String  Y",
+  "_serialNumComment": "流水号  String 30 Y",
+  "_userIdComment": "操作人用户ID  String",
+  "addUserFile": "",
+  "addUserPath": "",
+  "companyId": "fakeCompany001",
+  "serialNum": "bdde1768376f48008a8b3e8f892bfd29",
+  "userId": "fakeUser001"
+}

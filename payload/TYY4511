@@ -1,0 +1,17 @@
+输入					
+serialNum	流水号	String	30	Y	
+companyId	企业id	String		Y	
+userId	userId	String			
+orgId	组织ID	String		Y	
+orgName	组织名称	String			
+orgTypeId	组织类型ID	String			
+parentOrgId	上级组织ID	String			
+orgManagerId	组织负责人ID	String			
+note	备注	String			
+orgCode	组织编码	String			
+orgNumber	机构号	String			
+输出					
+count	影响数量	String		
+retCode	响应码	String	7		AAAAAAA标识成功
+retInfo	响应信息	String	254	Y	
+serialNum	流水号	String	30	Y	

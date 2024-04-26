@@ -1,0 +1,15 @@
+输入						
+serialNum		流水号	String	30	Y	
+userId		企业用户Id	String	20	Y	
+companyId		企业Id	String	20	Y	
+输出						
+menuList		权限列表	List			
+resId	menuList	资源id	String			
+resCode	menuList	权限编码	String			
+resName	menuList	权限名称	String			
+resType	menuList	权限类型	int			
+resOrder	menuList	权限顺序	int			
+resLevel	menuList	权限级别	int			
+retCode		响应码	String	7		AAAAAAA标识成功
+retInfo		响应信息	String	254		
+serialNum		流水号	String	30	Y	

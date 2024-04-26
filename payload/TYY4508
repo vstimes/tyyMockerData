@@ -1,0 +1,19 @@
+输入						
+serialNum		流水号	String	30	Y	
+companyId		企业id	String			
+userId		userId	String			
+stopFlag		启用状态查询（默认查询全部，1-仅启用，2-仅停用）	String	20	Y	
+输出						
+dataList		组织列表	List			
+orgId	dataList		String			
+parentOrgId	dataList		String			
+orgName	dataList		String			
+orgTypeName	dataList		String			
+orgManagerId	dataList		String			
+stopFlag	dataList		String			
+managerName	dataList		String			
+totalUser	dataList		String			
+directUser	dataList		String			
+retCode		响应码	String	7		AAAAAAA标识成功
+retInfo		响应信息	String	254		
+serialNum		流水号	String	30	Y	

@@ -1,0 +1,23 @@
+{
+  "table1": [
+    {
+      "id": "1",
+      "name": "name"
+    }
+  ],
+  "users": [
+    {
+      "departureSta": "",
+      "idNo": "",
+      "idType": "",
+      "joinStatus": "",
+      "stopStatus": "",
+      "userId": "user001",
+      "userMail": "",
+      "userName": "user1",
+      "userPhone": "",
+      "userSex": "",
+      "workNo": ""
+    }
+  ]
+}

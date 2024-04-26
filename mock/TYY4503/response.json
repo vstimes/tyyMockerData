@@ -1,0 +1,16 @@
+{
+  "_retCodeComment": "响应码  String 7  AAAAAAA标识成功",
+  "_retInfoComment": "响应信息  String 254",
+  "_serialNumComment": "流水号  String 30 Y",
+  "_totalCountComment": "总条数  Integer",
+  "list": {
+    "_companyIdComment": "企业Id list String 20",
+    "_companyNameComment": "企业名称 list String",
+    "companyId": "fakeCompany001",
+    "companyName": ""
+  },
+  "retCode": "AAAAAAA",
+  "retInfo": "查询成功",
+  "serialNum": "bdde1768376f48008a8b3e8f892bfd29",
+  "totalCount": ""
+}

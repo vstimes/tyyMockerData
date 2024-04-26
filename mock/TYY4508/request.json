@@ -1,0 +1,10 @@
+{
+  "_companyIdComment": " 企业id String",
+  "_serialNumComment": " 流水号 String 30 Y",
+  "_stopFlagComment": " 启用状态查询（默认查询全部，1-仅启用，2-仅停用） String 20 Y",
+  "_userIdComment": " userId String",
+  "companyId": "fakeCompany001",
+  "serialNum": "bdde1768376f48008a8b3e8f892bfd29",
+  "stopFlag": "",
+  "userId": "fakeUser001"
+}

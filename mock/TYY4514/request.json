@@ -1,0 +1,12 @@
+{
+  "_companyIdComment": "企业id  String  Y",
+  "_importFileNameComment": "导入文件完整名称，需要后缀  String  Y",
+  "_importFilePathComment": "文件传输平台路径  String  Y",
+  "_serialNumComment": "流水号  String 30 Y",
+  "_userIdComment": "登陆人用户Id  String  Y",
+  "companyId": "fakeCompany001",
+  "importFileName": "",
+  "importFilePath": "",
+  "serialNum": "bdde1768376f48008a8b3e8f892bfd29",
+  "userId": "fakeUser001"
+}

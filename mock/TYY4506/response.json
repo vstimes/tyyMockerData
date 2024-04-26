@@ -1,0 +1,22 @@
+{
+  "_retCodeComment": " 响应码 String 7  AAAAAAA标识成功",
+  "_retInfoComment": " 响应信息 String 254",
+  "_serialNumComment": " 流水号 String 30 Y",
+  "menuList": {
+    "_resCodeComment": "menuList 权限编码 String",
+    "_resIdComment": "menuList 资源id String",
+    "_resLevelComment": "menuList 权限级别 int",
+    "_resNameComment": "menuList 权限名称 String",
+    "_resOrderComment": "menuList 权限顺序 int",
+    "_resTypeComment": "menuList 权限类型 int",
+    "resCode": "",
+    "resId": "",
+    "resLevel": "",
+    "resName": "",
+    "resOrder": "",
+    "resType": ""
+  },
+  "retCode": "AAAAAAA",
+  "retInfo": "查询成功",
+  "serialNum": "bdde1768376f48008a8b3e8f892bfd29"
+}

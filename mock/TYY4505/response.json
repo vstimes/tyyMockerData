@@ -1,0 +1,22 @@
+{
+  "_retCodeComment": "响应码  String 7  AAAAAAA标识成功",
+  "_retInfoComment": "响应信息  String 254",
+  "_serialNumComment": "流水号  String 30 Y",
+  "_totalCountComment": "总条数  Integer",
+  "list": {
+    "_roleCodeComment": "角色编码 list String 3",
+    "_roleDescriptionComment": "角色说明 list String 60",
+    "_roleIdComment": "角色ID list String 20",
+    "_roleNameComment": "角色名称 list String 20",
+    "_roleStatusComment": "生效状态 list String 20  Y-生效；N-未生效",
+    "roleCode": "",
+    "roleDescription": "",
+    "roleId": "",
+    "roleName": "",
+    "roleStatus": ""
+  },
+  "retCode": "AAAAAAA",
+  "retInfo": "查询成功",
+  "serialNum": "bdde1768376f48008a8b3e8f892bfd29",
+  "totalCount": ""
+}

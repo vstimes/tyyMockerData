@@ -1,0 +1,23 @@
+输入						
+serialNum		流水号	String	30	Y	
+userId		登陆人userId	String			
+companyId		企业userId	String			
+orgId		组织id	String			
+pageSize			String			
+pageNo			String			
+输出						
+dataList		人员列表	List			
+userId	dataList	用户ID	String			
+userName	dataList	用户姓名	String			
+userPhone	dataList	手机号	String			
+idType	dataList	证件类型	String			
+idNo	dataList	证件号	String			
+userMail	dataList	用户邮箱	String			
+userSex	dataList	用户性别	String			
+workNo	dataList	工号	String			
+joinStatus	dataList	加入状态	String			
+departureSta	dataList	离职状态	String			
+stopStatus	dataList	停用状态	String			
+retCode		响应码	String	7		AAAAAAA标识成功
+retInfo		响应信息	String	254		
+serialNum		流水号	String	30	Y	

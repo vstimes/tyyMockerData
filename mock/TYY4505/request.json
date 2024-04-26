@@ -1,0 +1,12 @@
+{
+  "_companyIdComment": "企业Id  String 20 Y",
+  "_pageNoComment": "页码  Integer",
+  "_pageSizeComment": "每页大小  Integer",
+  "_serialNumComment": "流水号  String 30 Y",
+  "_userIdComment": "userId  String  Y",
+  "companyId": "fakeCompany001",
+  "pageNo": "",
+  "pageSize": "",
+  "serialNum": "bdde1768376f48008a8b3e8f892bfd29",
+  "userId": "fakeUser001"
+}

@@ -1,0 +1,28 @@
+输入						
+serialNum	流水号		String	30	Y	
+companyId	企业id		String		Y	
+userId	需要更新的用户ID		String		Y	
+corpCompanyName	法人公司名称		String		N	
+corpCompanyCode	编码		String		N	
+stopFlag	启停状态（N-启用，Y-停用）		String		N	
+pageSize			String		N	
+pageNo					N	
+输出						
+list	法人公司列表		List			
+corpCompanyId	法人公司ID	list	String			
+corpCompanyCode	编码	list	String			
+corpCompanyName	法人公司名称	list	String			
+parentCorpCompanyId	上级法人公司ID	list	String			
+parentCorpCompanyName	上级法人公司名称	list	String			
+corpCompanyType	法人类型  (01-企业；02-事业单位；03-社会团体；99-其他)	list	String			
+taxpayerType	纳税人类型  (01-一般纳税人；02-小规模纳税人)	list	String			
+corpCompanySource	公司来源  (01-手动添加)	list	String			
+uscc	统一社会信用代码	list	String			
+openingBank	开户行	list	String			
+phoneNum	电话	list	String			
+addr	注册地址	list	String			
+stopFlag	启停状态  (N-启用，Y-停用)	list	String			
+retCode	响应码		String	7		AAAAAAA标识成功
+retInfo	响应信息		String	254	Y	
+serialNum	流水号		String	30	Y	
+						

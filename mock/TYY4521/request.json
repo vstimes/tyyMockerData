@@ -1,0 +1,10 @@
+{
+  "_companyIdComment": "企业id  String  Y",
+  "_removeUserIdComment": "移除用户id removeUserIdList String",
+  "_serialNumComment": "流水号  String 30 Y",
+  "_userIdComment": "操作人用户ID  String",
+  "companyId": "fakeCompany001",
+  "removeUserId": "",
+  "serialNum": "bdde1768376f48008a8b3e8f892bfd29",
+  "userId": "fakeUser001"
+}

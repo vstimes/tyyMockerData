@@ -1,0 +1,19 @@
+输入					
+serialNum	流水号	String	30	Y	
+companyId	企业id	String		Y	
+userId	操作用户ID				
+editUserId	被编辑用户ID	String			
+userName	姓名	String			
+idType	证件类型				
+idNo	证件号				
+userPhone	手机号	String			
+userMail	邮箱	String			
+departureSta	在职状态	String			
+workNo	工号	String			
+roleIdList	角色ID列表	List			
+funcPerIdList	功能权限ID列表	List			
+orgIdList	组织ID列表	List			
+输出					
+retCode	响应码	String	7		AAAAAAA标识成功
+retInfo	响应信息	String	254	Y	
+serialNum	流水号	String	30	Y	

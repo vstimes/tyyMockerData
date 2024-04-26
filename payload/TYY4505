@@ -1,0 +1,17 @@
+输入						
+serialNum	流水号		String	30	Y	
+companyId	企业Id		String	20	Y	
+userId	userId		String		Y	
+pageSize	每页大小		Integer			
+pageNo	页码		Integer			
+输出						
+retCode	响应码		String	7		AAAAAAA标识成功
+retInfo	响应信息		String	254		
+serialNum	流水号		String	30	Y	
+totalCount	总条数		Integer			
+list			List			
+roleId	角色ID	list	String	20		
+roleName	角色名称	list	String	20		
+roleDescription	角色说明	list	String	60		
+roleCode	角色编码	list	String	3		
+roleStatus	生效状态	list	String	20		Y-生效；N-未生效

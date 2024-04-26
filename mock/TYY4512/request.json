@@ -1,0 +1,16 @@
+{
+  "_companyIdComment": "企业id  String  Y",
+  "_orgIdComment": "组织ID  String  Y",
+  "_orgNameComment": "组织名称  String  N",
+  "_orgTypeIdComment": "组织类型ID  String  N",
+  "_serialNumComment": "流水号  String 30 Y",
+  "_stopFlagComment": "启用状态查询（默认查询全部，1-仅启用，2-仅停用）  int  N",
+  "_userIdComment": "userId",
+  "companyId": "fakeCompany001",
+  "orgId": "",
+  "orgName": "",
+  "orgTypeId": "",
+  "serialNum": "bdde1768376f48008a8b3e8f892bfd29",
+  "stopFlag": "",
+  "userId": "fakeUser001"
+}

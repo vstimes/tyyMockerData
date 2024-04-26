@@ -1,0 +1,12 @@
+{
+  "_companyIdComment": "企业id  String  Y",
+  "_orgIdComment": " orgIdList String  Y",
+  "_relativeUrlComment": "传一个url（常量）,天元云用来保存文件操作记录  String  Y",
+  "_serialNumComment": "流水号  String 30 Y",
+  "_userIdComment": "userId",
+  "companyId": "fakeCompany001",
+  "orgId": "",
+  "relativeUrl": "",
+  "serialNum": "bdde1768376f48008a8b3e8f892bfd29",
+  "userId": "fakeUser001"
+}

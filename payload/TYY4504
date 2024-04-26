@@ -1,0 +1,23 @@
+输入					
+serialNum	流水号	String	30	Y	
+userId		String		Y	
+companyId	企业Id	String	20	Y	
+输出					
+retCode	响应码	String	7		AAAAAAA标识成功
+retInfo	响应信息	String	254		
+serialNum	流水号	String	30	Y	
+companyId	企业Id	String	20		
+custNo	企业客户号	String	12		
+companyName	企业名称	String	120		
+orgCode	组织机构代码	String	10		
+uscc	统一社会信用代码	String	18		
+companyRgstNo	工商注册号	String	50		
+industryType	行业类型	String	2		??
+companyType	企业类型	String	2		企业类型  01:企业；02：政府/事业单位；99：其他组织
+companySize	企业规模	String	2		??
+rgstAddr	注册地址	String	300		
+signStatus	签约状态	String	2		签约状态  00:已签约;01：签约审批中；02：未签约
+authStatus	认证状态	String	2		认证状态  00:未认证；01：普通；02：中级；03：高级
+legalPersonName	法人姓名	String	150		
+legalPersonType	法人证件类型	String	3		
+legalPersonNo	法人证件号	String	30		
